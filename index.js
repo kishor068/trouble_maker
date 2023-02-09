@@ -37,7 +37,7 @@ function fun(btn) {
 
       break;
     case "navya":
-      var sh = new Audio("");
+      var sh = new Audio("sounds/navya.ogg");
       sh.play();
 
       break;
@@ -52,12 +52,12 @@ function fun(btn) {
 
       break;
     case "varun":
-      var sh = new Audio("");
+      var sh = new Audio("sounds/varun.ogg");
       sh.play();
 
       break;
     case "mallya":
-      var sh = new Audio("");
+      var sh = new Audio("sounds/mallya.ogg");
       sh.play();
 
       break;
