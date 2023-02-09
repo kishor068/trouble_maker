@@ -27,7 +27,7 @@ function fun(btn) {
 
       break;
     case "manaswi":
-      var sh = new Audio("sounds/manaswi.ogg");
+      var sh = new Audio("sounds/man.mp3");
       sh.play();
 
       break;
@@ -57,7 +57,7 @@ function fun(btn) {
 
       break;
     case "mallya":
-      var sh = new Audio("sounds/mallya.ogg");
+      var sh = new Audio("sounds/guru.ogg");
       sh.play();
 
       break;
