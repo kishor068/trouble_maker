@@ -42,7 +42,7 @@ function fun(btn) {
 
       break;
     case "vikram":
-      var sh = new Audio("sounds/vicky.mp3");
+      var sh = new Audio("sounds/vicks.ogg");
       sh.play();
 
       break;
