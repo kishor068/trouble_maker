@@ -14,7 +14,7 @@ function fun(btn) {
       var sh = new Audio("sounds/Shahid.ogg");
       sh.play();
       break;
-    case "lenwick": var sh = new Audio("sounds/manasw.ogg");
+    case "lenwick": var sh = new Audio("sounds/len.ogg");
       sh.play();
       break;
     case "kishor":
@@ -22,7 +22,7 @@ function fun(btn) {
       sh.play();
       break;
     case "priyanka":
-      var sh = new Audio("sounds/");
+      var sh = new Audio("sounds/len.ogg");
       sh.play();
 
       break;
