@@ -68,3 +68,33 @@ a{
     font-size: 20px;
     color: white;
 }
+img:hover
+{
+    opacity: 0.6;
+}
+
+@media screen and (max-width:768px) {
+
+
+    .container .box 
+    {
+        display: block;
+    }
+    /* .container
+    {
+        display: block;
+       width: 100%;
+    } */
+    /* .container .heading
+    {
+        display: block;
+    } */
+    .container .box  .dream
+    {
+        display: block;
+        width: 50%;
+    }
+    .nav{
+        width: 100%;
+    }
+}
