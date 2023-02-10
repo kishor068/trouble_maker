@@ -21,6 +21,7 @@
  padding-bottom: 20px;
  
 }
+
 .container .box 
 {
     display: flex;
@@ -55,6 +56,16 @@
     /* border-radius: 20px; */
     /* opacity: 0.6; */
     
+}
+ a:hover
+{
+ opacity: 0.6;
+ color: black;
+ /* background-color:white ; */
+}
+.anchor:hover
+{
+    background-color: white;
 }
 .anchor{
     /* margin: 10px; */
