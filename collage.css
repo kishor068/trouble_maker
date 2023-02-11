@@ -113,8 +113,8 @@ img:hover
         display: block;
         margin: auto;
     }
-    body
+    /* body
     {
        max-width: fit-content;
-    }
+    } */
 }
