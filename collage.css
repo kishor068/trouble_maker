@@ -108,4 +108,13 @@ img:hover
     .nav{
         width: 100%;
     }
+    .middle
+    {
+        display: block;
+        margin: auto;
+    }
+    body
+    {
+       max-width: fit-content;
+    }
 }
