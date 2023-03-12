@@ -39,7 +39,7 @@
 }
 .container .box  .dream img
 {
-    margin-bottom: 5px;
+    margin-bottom: 15px;
 }
 .nav
 {
@@ -79,6 +79,11 @@ a{
     font-size: 20px;
     color: white;
 }
+
+img {
+    border-radius: 7%;
+}
+
 img:hover
 {
     opacity: 0.6;
